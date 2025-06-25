@@ -29,8 +29,8 @@ const razaul = {
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridaysonar&style=for-the-badge&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hridaysonar?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=razaulkarim2410&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/razaulkarim2410?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=for-the-badge" alt="Focus" />
 </div>
 
@@ -65,8 +65,8 @@ const razaul = {
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=razaulkarim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulkarim&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=razaulkarim2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulkarim2410&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
