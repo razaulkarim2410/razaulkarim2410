@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=RAZAUL%20KARIM&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=RAZAUL%20KARIM&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20Developer%20|&descAlignY=51&descAlign=62"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Razaul+Karim;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Razaul+Karim;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,13 +17,14 @@
 javascript
 const razaul = {
     name: "Razaul Karim",
-    role: "Frontend Developer",
+    role: "MERN Stack Developer",
     location: "Bangladesh 🇧🇩",
     currentlyWorking: "MERN Stack Projects",
     currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
     askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
     email: "razaulkarim2410@gmail.com",
     portfolio: "https://portfolio-razaulkarim.netlify.app/",
+    whatsapp: "+8801912278356",
     funFact: "I love building interactive web applications! 🚀"
 };
 
@@ -93,7 +94,7 @@ javascript
 const currentGoals = {
   🔥 building: "Modern MERN Stack Applications",
   📚 learning: "Advanced React & Next.js Concepts",
-  🎯 mastering: "Frontend Development Best Practices",
+  🎯 mastering: "MERN Stack Development Best Practices",
   🚀 exploring: "Latest Web Technologies",
   💡 focus: "Creating User-Friendly Interfaces"
 };
